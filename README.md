@@ -1,1 +1,1 @@
-# Reecriando site do Google Glass com o Curso em Vídeo
+# Recriando site do Google Glass com o Curso em Vídeo
