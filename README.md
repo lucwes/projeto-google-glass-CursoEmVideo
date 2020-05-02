@@ -1,1 +1,1 @@
-# projeto-google-glass-CursoEmVideo
+# Reecriando site do Google Glass com o Curso em Vídeo
